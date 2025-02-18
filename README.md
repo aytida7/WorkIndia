@@ -26,6 +26,7 @@
 
 ## Testing enpoint to large traffic.
 
+- run `npm start` and open another terminal, then
 - run `node test.js` to test traffic controls and race conditions.
 - Developer can change user credentials [ It needs to be registered already ] .
 - Booking Data: Train data which is already present with Number of seats needs to book.
