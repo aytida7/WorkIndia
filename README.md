@@ -1,6 +1,10 @@
 # Contributing guide
 
+## Regarding .env file
 
+ - ```Intentionally added .env file to github so that code can be tested as per use.```
+
+   
 ## Setup
 
 - git clone ```https://github.com/aytida7/WorkIndia.git```
