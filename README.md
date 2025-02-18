@@ -22,8 +22,9 @@
 
 ## Testing enpoint to large traffic.
 
+- run `node test.js` to test traffic controls and race conditions.
 - Developer can change user credentials [ It needs to be registered already ] .
 - Booking Data: Train data which is already present with Number of seats needs to book.
 - By default 10 people at a time trying to book 10 ticket according to code [ Number can be changed to alter length of for loop ] .
 
-  
+
