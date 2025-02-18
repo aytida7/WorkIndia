@@ -1,0 +1,6 @@
+To do:
+
+handle transaction for every db call
+swagger configuration
+test.js for multiple users
+.env for secret keys
